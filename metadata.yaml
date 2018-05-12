@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42113'
     url: http://www.gutenberg.org/2009/agents/42113
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43291#Proc-s-verbaux-de-l-Assembl-e-g-n-rale-de-la-section-des-Postes4-D-cembre-1790---5-Septembre-_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2013-07-24'
 gutenberg_type: Text
