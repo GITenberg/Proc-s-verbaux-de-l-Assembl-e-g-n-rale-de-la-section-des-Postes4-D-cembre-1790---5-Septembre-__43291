@@ -1,0 +1,33 @@
+_repo: Proc-s-verbaux-de-l-Assembl-e-g-n-rale-de-la-section-des-Postes4-D-cembre-1790---5-Septembre-__43291
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43291-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Braesch, F. (Frédéric)
+    aliases:
+    - Braesch, Frederic
+    - Braesch, Frédéric
+    - Braesch, Fritz
+    birthdate: 1877
+    gutenberg_agent_id: '42113'
+    url: http://www.gutenberg.org/2009/agents/42113
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2013-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43291'
+  lccn: '29002745'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- 1789-1799 -- Sources'
+- !lcc 'DC'
+title: 'Procès-verbaux de l''Assemblée générale de la section des Postes
+
+  4 Décembre 1790 - 5 Septembre 1792'
+url: http://www.gutenberg.org/ebooks/43291
